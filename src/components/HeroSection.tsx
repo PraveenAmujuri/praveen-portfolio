@@ -56,7 +56,7 @@ const HeroSection = () => {
           </a>
           <a
             href="/resume.pdf"
-            download
+            download="Amujuri_Sai_Praveen_Resume.pdf"
             className="inline-flex items-center gap-2 px-5 py-2.5 rounded-lg border border-border text-sm font-medium text-foreground hover:bg-secondary transition-colors"
           >
             <Download size={16} />
