@@ -27,7 +27,7 @@ const projects = [
       "Built a full-stack AI hospital triage platform that analyzes patient symptoms using generative AI and dynamically prioritizes appointment scheduling.",
     tech: ["React", "FastAPI", "MongoDB", "Gemini API"],
     github: "https://github.com/PraveenAmujuri/medistream-ai-hospital-booking",
-    demo: "#",
+    demo: "https://med.praveenai.tech/",
   },
 ];
 
