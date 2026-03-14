@@ -2,7 +2,6 @@ import { useScrollFade } from "@/hooks/useScrollFade";
 import { Award, ShieldCheck, Cpu } from "lucide-react";
 
 const certs = [
-  { name: "MongoDB Certified Developer Associate", icon: ShieldCheck },
   { name: "NVIDIA CUDA Python Certification", icon: Cpu },
   { name: "Postman Student Expert", icon: Award },
 ];
